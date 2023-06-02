@@ -1,4 +1,4 @@
-var images = document.getElementsByClassName('prettyphoto');
+var images = document.getElementsByClassName('class Name');
 var srcList = [];
 var i = 0;
 
